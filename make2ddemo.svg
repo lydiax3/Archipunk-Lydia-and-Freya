@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+    <!-- Generator: Grasshopper 1.0.0, Redback Plugin. SVG Version: 6.00 Build 0) Made by Andrew Butler at Cox Architecture -->
+    <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+    <svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+    width="420mm" height="297mm" viewBox="0 0 420 297" xml:space="preserve">
+    <style type="text/css">
+    *{
+stroke: #ff00b4;
+stroke-width: 0.2mm;
+fill: none;
+stroke-dasharray: 1mm 0.5mm;
+stroke-linecap: round;
+stroke-linejoin: round
+}
+[layer="Default"] {
+stroke-width: 0.5mm;
+}
+[layer="Layer 01"]{
+stroke-width: 0.1mm;
+}
+[layer="Layer 02"]{
+stroke-width: 0.1mm;
+stroke-dasharray: 2mm 0.5mm;
+}
+    </style>
+    <path spline_2deg="" d="M210.00 , 148.50 C 210.00 , 148.50 , 210.00 , 148.50 , 210.00 , 148.50" />
+<path spline_2deg="" d="M210.00 , 148.50 C 210.00 , 148.50 , 209.99 , 148.50 , 209.99 , 148.50 S 209.99 , 148.50 , 209.99 , 148.50" />
+<path spline_2deg="" d="M209.99 , 148.50 C 209.99 , 148.50 , 209.99 , 148.50 , 209.99 , 148.50 S 210.00 , 148.50 , 210.00 , 148.50" />
+<path spline_2deg="" d="M209.99 , 148.50 C 209.99 , 148.50 , 209.99 , 148.50 , 209.99 , 148.50 S 209.99 , 148.50 , 209.99 , 148.50 S 209.99 , 148.50 , 209.99 , 148.50 S 210.00 , 148.50 , 210.00 , 148.50" />
+<path spline_2deg="" d="M210.00 , 148.50 C 210.00 , 148.50 , 210.00 , 148.50 , 210.00 , 148.50" />
+<path spline_2deg="" d="M210.00 , 148.50 C 210.00 , 148.50 , 210.00 , 148.50 , 210.00 , 148.50" />
+<path spline_2deg="" d="M209.99 , 148.50 C 209.99 , 148.50 , 209.99 , 148.50 , 209.99 , 148.50" />
+<line x1="209.990984309" y1="148.50228762" x2="209.990733057" y2="148.498143845" />
+<line x1="209.995746058" y1="148.497930228" x2="209.995861006" y2="148.502065844" />
+    </svg>
